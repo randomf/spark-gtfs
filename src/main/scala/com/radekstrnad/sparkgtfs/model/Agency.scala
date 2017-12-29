@@ -1,7 +1,7 @@
 package com.radekstrnad.sparkgtfs.model
 
 /**
-  * Represents transport agency
+  * One or more transit agencies that provide the data in this feed.
   *
   * @param agency_id	      The agency_id field is an ID that uniquely identifies a transit agency.
   *                         A transit feed may represent data from more than one agency. The agency_id is dataset unique.

@@ -1,7 +1,7 @@
 package com.radekstrnad.sparkgtfs.model
 
 /**
-  * Single route
+  * Transit routes. A route is a group of trips that are displayed to riders as a single service.
   *
   * @param route_id         The route_id field contains an ID that uniquely identifies a route. The route_id is dataset
   *                         unique.

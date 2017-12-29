@@ -1,7 +1,7 @@
 package com.radekstrnad.sparkgtfs.model
 
 /**
-  * Represents a single public transport stop.
+  * Individual locations where vehicles pick up or drop off passengers.
   *
   * @param stop_id        The stop_id field contains an ID that uniquely identifies a stop, station, or station entrance.
   *                       Multiple routes may use the same stop. The stop_id is used by systems as an internal identifier
